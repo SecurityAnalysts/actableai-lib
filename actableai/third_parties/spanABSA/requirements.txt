@@ -1,4 +1,4 @@
-torch==1.7.1
+torch==2.2.0
 torchvision==0.8.2
 allennlp==2.1.0
-pydantic==1.8.1
+pydantic==1.10.13
